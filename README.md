@@ -58,7 +58,8 @@ KMTC can be used for research in:
 
 ## Data Collection Area
 
-The dataset covers the Seoul metropolitan area, including **Seoul**, **Gyeonggi-do**, and **Incheon**. This region provides diverse urban, suburban, coastal, and inter-regional mobility environments, making it suitable for studying heterogeneous mobility patterns. :contentReference[oaicite:1]{index=1}
+The dataset covers the Seoul metropolitan area, including **Seoul**, **Gyeonggi-do**, and **Incheon**. This region provides diverse urban, suburban, coastal, and inter-regional mobility environments, making it suitable for studying heterogeneous mobility patterns.
+![KMTC Dataset area](Korean_Multimodal_Trip_Chain_Dataset_map.png)
 
 ## Quality Validation
 
@@ -123,6 +124,6 @@ If you use KMTC in your research, please cite:
 @article{kim2026kmtc,
   title={KMTC: A Korean Multimodal Trip-Chain Dataset with GPS Trajectories, Voice Narratives, and Mobility QA Annotations},
   author={Kim, Hyeongbok and Kim, Sung Jin and Dong, Gilmu},
-  journal={Preprint submitted to Elsevier},
+  journal={ },
   year={2026}
 }
