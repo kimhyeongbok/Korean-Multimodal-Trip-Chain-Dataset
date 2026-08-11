@@ -3,7 +3,7 @@
 **KMTC** is a Korean multimodal mobility dataset consisting of **10,000 trip-chain records** collected in the Seoul metropolitan area, including **private-car** and **public-transit** mobility records.
 
 The dataset integrates structured trip attributes, GPS trajectories, voice narratives, transcriptions, generated mobility descriptions, and mobility question-answering annotations. It is designed to support research on personalized mobility intelligence, mobility question answering, Korean speech understanding, and multimodal AI.
-![Uploading Korean_Multimodal_Trip_Chain_Dataset_page2_image.png…]()
+
 
 > **Dataset access is available upon request.**  
 > Please submit the request form here:  
